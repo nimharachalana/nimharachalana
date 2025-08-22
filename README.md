@@ -12,14 +12,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,java,mysql,php,py,photoshop,wordpress,Cisco Packet Tracer" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,java,mysql,php,py,wordpress" />
   </a>
 </p>
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nimharachalana&icon=10&color=13" />
-  </a>
-</div>
+
+
+
 
 ### 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
